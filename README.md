@@ -24,3 +24,6 @@ Another example with more of the same street shown. This plan had to be broken u
 
 # Floor Plan Example
 
+![image](https://github.com/NollieAnalysis/Autodesk-Autocad-Projects/assets/163913188/173c9cd4-60d5-453f-b9c9-d9aea836afb7)
+
+![image](https://github.com/NollieAnalysis/Autodesk-Autocad-Projects/assets/163913188/cce0d2ba-a402-4fe4-8616-922082328af6)
