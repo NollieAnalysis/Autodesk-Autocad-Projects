@@ -18,4 +18,9 @@ Final product saved as a PDF.
 
 ![image](https://github.com/NollieAnalysis/Autodesk-Autocad-Projects/assets/163913188/24c06c27-0e0a-4901-92b3-f302c523c626)
 
+Another example with more of the same street shown. This plan had to be broken up due to length.
+
+![image](https://github.com/NollieAnalysis/Autodesk-Autocad-Projects/assets/163913188/2647384f-1f8c-481b-9533-f18e899c091f)
+
+# Floor Plan Example
 
