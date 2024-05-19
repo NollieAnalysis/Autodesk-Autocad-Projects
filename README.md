@@ -16,11 +16,11 @@ Trace the outline of applicable map details (i.e. roads, curbs, etc.) and add ad
 
 Final product saved as a PDF.
 
-![image](https://github.com/NollieAnalysis/Autodesk-Autocad-Projects/assets/163913188/24c06c27-0e0a-4901-92b3-f302c523c626)
+![TC-2](https://github.com/NollieAnalysis/Autodesk-Autocad-Projects/assets/163913188/68e20459-8715-483b-bcb7-6a9f0a82e31b)
 
 Another example with more of the same street shown. This plan had to be broken up due to length.
 
-![image](https://github.com/NollieAnalysis/Autodesk-Autocad-Projects/assets/163913188/2647384f-1f8c-481b-9533-f18e899c091f)
+![TC-1](https://github.com/NollieAnalysis/Autodesk-Autocad-Projects/assets/163913188/ec0d7d1b-b51e-45e6-b110-bf2bcdb1b5b9)
 
 # Floor Plan Example
 
